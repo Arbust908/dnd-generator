@@ -18,7 +18,8 @@ export const state = () => ({
     acolyte: [
       {
         number: 1,
-        text: 'I ran away from home at an early age and found refuge in a temple.'
+        text:
+          'I ran away from home at an early age and found refuge in a temple.'
       },
       {
         number: 2,
@@ -63,7 +64,8 @@ export const state = () => ({
       },
       {
         number: 4,
-        text: 'I took up with a confidence artist, from whom I learned my craft.'
+        text:
+          'I took up with a confidence artist, from whom I learned my craft.'
       },
       {
         number: 5,
@@ -171,7 +173,8 @@ export const state = () => ({
     guild_artisan: [
       {
         number: 1,
-        text: "I was apprenticed to a master who taught me the guild's business."
+        text:
+          "I was apprenticed to a master who taught me the guild's business."
       },
       {
         number: 2,
@@ -190,7 +193,8 @@ export const state = () => ({
       },
       {
         number: 5,
-        text: 'I wanted to get away from my home situation and start a new life.'
+        text:
+          'I wanted to get away from my home situation and start a new life.'
       },
       {
         number: 6,
@@ -225,7 +229,8 @@ export const state = () => ({
       },
       {
         number: 6,
-        text: "Society's decadence disgusted me, so I decided to leave it behind."
+        text:
+          "Society's decadence disgusted me, so I decided to leave it behind."
       }
     ],
     noble: [
@@ -411,7 +416,8 @@ export const state = () => ({
       },
       {
         number: 6,
-        text: 'My parents died, leaving no one to look after me. I raised myself.'
+        text:
+          'My parents died, leaving no one to look after me. I raised myself.'
       }
     ]
   }

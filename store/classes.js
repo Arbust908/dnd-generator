@@ -41,7 +41,9 @@ export const state = () => ({
       }
     ],
     bard: [
-      { text: 'I awakened my latent bardic abilities through trial and error.' },
+      {
+        text: 'I awakened my latent bardic abilities through trial and error.'
+      },
       {
         text:
           'I was a gifted performer and attracted the attention of a master bard who schooled me in the old techniques.'
@@ -117,7 +119,8 @@ export const state = () => ({
     ],
     fighter: [
       {
-        text: 'I wanted to hone my combat skill s, and so I joined a war college.'
+        text:
+          'I wanted to hone my combat skill s, and so I joined a war college.'
       },
       {
         text:
@@ -127,7 +130,9 @@ export const state = () => ({
         text:
           'Horrible monsters descended on my community, killing someone I loved. I too k up arms to destroy those crea tures and others of a similar nature.'
       },
-      { text: 'I joined the army a nd learned how to fight as part of a group.' },
+      {
+        text: 'I joined the army a nd learned how to fight as part of a group.'
+      },
       {
         text:
           'I grew up fighting, and I refined my talents by defending myself against people who crossed me.'
