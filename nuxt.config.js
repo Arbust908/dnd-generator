@@ -61,6 +61,7 @@ export default {
    ** Build configuration
    */
   build: {
+    cache: true,
     /*
      ** You can extend webpack config here
      */
